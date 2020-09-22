@@ -1,0 +1,371 @@
+{
+    "color": [
+        "dark",
+        "brown",
+        "blond",
+        "blue",
+        "green",
+        "yellow",
+        "black",
+        "gray",
+        "white",
+        "red",
+        "purple",
+        "light brown",
+        "light blue",
+        "silver",
+        "pink",
+        "taking a picture",
+        "orange",
+        "tan",
+        "dark brown",
+        "beige",
+        "gold",
+        "cream colored",
+        "maroon",
+        "dark blue",
+        "khaki",
+        "teal",
+        "making a face",
+        "brunette",
+        "brushing teeth",
+        "shaking hands",
+        "taking a photo",
+        "taking bath",
+        "taking pictures",
+        "taking a photograph"
+    ],
+    "hposition": [
+        "right",
+        "left"
+    ],
+    "place": [
+        "kiosk",
+        "city",
+        "street",
+        "field",
+        "meadow",
+        "zoo",
+        "yard",
+        "park",
+        "pavement",
+        "runway",
+        "sea",
+        "lawn",
+        "supermarket",
+        "forest",
+        "ocean",
+        "highway",
+        "display",
+        "station",
+        "road",
+        "lobby",
+        "pen",
+        "shore",
+        "walkway",
+        "beach",
+        "sidewalk",
+        "airport",
+        "lake",
+        "hotel room",
+        "skate park",
+        "parking lot",
+        "hotel",
+        "roadway",
+        "place",
+        "train station",
+        "museum",
+        "river",
+        "swimming pool",
+        "garage",
+        "pasture",
+        "store",
+        "hallway",
+        "market",
+        "restaurant",
+        "railroad",
+        "town",
+        "pond",
+        "path",
+        "stadium",
+        "garden",
+        "farm",
+        "porch",
+        "harbor",
+        "terminal",
+        "cafe",
+        "restroom",
+        "marina",
+        "courtyard",
+        "shop",
+        "shopping center",
+        "tunnel",
+        "cafeteria",
+        "desert",
+        "church",
+        "library",
+        "plain",
+        "orchard",
+        "gas station",
+        "village",
+        "pizza shop",
+        "mall",
+        "gym",
+        "backyard",
+        "stage",
+        "patio",
+        "entrance",
+        "classroom",
+        "hangar",
+        "amusement park",
+        "salon",
+        "theater",
+        "auditorium",
+        "lounge",
+        "school",
+        "cemetery",
+        "roadside",
+        "hospital",
+        "swamp",
+        "bakery",
+        "coffee shop",
+        "pub"
+    ],
+    "height": [
+        "tall",
+        "short",
+        "brushing teeth",
+        "taking a photo",
+        "taking a picture"
+    ],
+    "material": [
+        "brick",
+        "wood",
+        "metal",
+        "plastic",
+        "leather",
+        "glass",
+        "concrete",
+        "porcelain",
+        "brushing teeth",
+        "taking a picture",
+        "taking pictures",
+        "taking a photo"
+    ],
+    "sportActivity": [
+        "snowboarding",
+        "skateboarding",
+        "riding",
+        "skiing",
+        "surfing",
+        "skating",
+        "swimming",
+        "performing trick",
+        "taking a picture"
+    ],
+    "size": [
+        "tiny",
+        "large",
+        "small",
+        "huge",
+        "little",
+        "giant",
+        "brushing teeth",
+        "taking a picture",
+        "taking bath"
+    ],
+    "pose": [
+        "lying",
+        "standing",
+        "pointing",
+        "crouching",
+        "jumping",
+        "running",
+        "walking",
+        "sitting",
+        "bending",
+        "taking pictures",
+        "making a face",
+        "taking a picture",
+        "taking a photo",
+        "brushing teeth",
+        "shaking hands"
+    ],
+    "weather": [
+        "foggy",
+        "clear",
+        "cloudy",
+        "sunny",
+        "overcast",
+        "cloudless",
+        "partly cloudy",
+        "rainy",
+        "stormy",
+        "taking a picture"
+    ],
+    "realism": [
+        "fake",
+        "real"
+    ],
+    "shape": [
+        "round",
+        "square",
+        "rectangular",
+        "triangular",
+        "taking a picture",
+        "brushing teeth",
+        "octagonal",
+        "taking a photo"
+    ],
+    "activity": [
+        "eating",
+        "waiting",
+        "playing",
+        "reading",
+        "staring",
+        "talking",
+        "drinking",
+        "sleeping",
+        "looking down",
+        "driving",
+        "resting",
+        "posing",
+        "looking up",
+        "cooking",
+        "brushing teeth"
+    ],
+    "cleanliness": [
+        "dirty",
+        "clean",
+        "stained",
+        "tinted",
+        "taking a picture"
+    ],
+    "pattern": [
+        "striped",
+        "dotted",
+        "checkered",
+        "brushing teeth"
+    ],
+    "length": [
+        "long",
+        "short",
+        "taking a picture",
+        "brushing teeth"
+    ],
+    "room": [
+        "bathroom",
+        "bedroom",
+        "kitchen",
+        "dining room",
+        "office",
+        "living room",
+        "attic",
+        "taking a picture"
+    ],
+    "thickness": [
+        "thin",
+        "thick"
+    ],
+    "race": [
+        "asian",
+        "caucasian",
+        "making a face"
+    ],
+    "age": [
+        "little",
+        "young",
+        "old",
+        "brushing teeth",
+        "taking bath"
+    ],
+    "gender": [
+        "male",
+        "female"
+    ],
+    "company": [
+        "nike",
+        "adidas",
+        "taking a picture"
+    ],
+    "width": [
+        "narrow",
+        "wide"
+    ],
+    "tone": [
+        "light",
+        "taking a picture"
+    ],
+    "weight": [
+        "heavy",
+        "light"
+    ],
+    "state": [
+        "choppy",
+        "calm",
+        "rough",
+        "still",
+        "wavy",
+        "smooth"
+    ],
+    "15": [
+        "taking a picture",
+        "brushing teeth"
+    ],
+    "hardness": [
+        "hard",
+        "soft"
+    ],
+    "texture": [
+        "coarse",
+        "fine"
+    ],
+    "depth": [
+        "deep",
+        "shallow"
+    ],
+    "fatness": [
+        "skinny",
+        "thin",
+        "fat"
+    ],
+    "flavor": [
+        "chocolate",
+        "vanilla",
+        "strawberry"
+    ],
+    "None": [
+        "brushing teeth",
+        "taking a photo",
+        "shaking hands",
+        "taking a picture",
+        "taking notes"
+    ],
+    "27": [
+        "taking pictures"
+    ],
+    "face expression": [
+        "taking a picture",
+        "taking pictures",
+        "shaking hands",
+        "making a face"
+    ],
+    "18": [
+        "brushing teeth"
+    ],
+    "31": [
+        "brushing teeth"
+    ],
+    "sport": [
+        "taking photos"
+    ],
+    "16": [
+        "taking pictures"
+    ],
+    "24": [
+        "making a face"
+    ],
+    "25": [
+        "brushing teeth"
+    ]
+}

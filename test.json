@@ -1,0 +1,177 @@
+{
+    "111007521": {
+        "semantic": [
+            {
+                "operation": "select",
+                "dependencies": [],
+                "argument": "shirt (4653737)"
+            },
+            {
+                "operation": "relate",
+                "dependencies": [
+                    0
+                ],
+                "argument": "person,wearing,s (4653736)"
+            },
+            {
+                "operation": "query",
+                "dependencies": [
+                    1
+                ],
+                "argument": "name"
+            }
+        ],
+        "entailed": [],
+        "equivalent": [
+            "111007521"
+        ],
+        "question": "Who is wearing a shirt?",
+        "imageId": "2331819",
+        "isBalanced": true,
+        "groups": {
+            "global": "person",
+            "local": "14-shirt_wearing,s"
+        },
+        "answer": "girl",
+        "semanticStr": "select: shirt (4653737)->relate: person,wearing,s (4653736) [0]->query: name [1]",
+        "annotations": {
+            "answer": {
+                "0": "4653736"
+            },
+            "question": {
+                "4": "4653737"
+            },
+            "fullAnswer": {
+                "1": "4653736",
+                "5": "4653737"
+            }
+        },
+        "types": {
+            "detailed": "relS",
+            "semantic": "rel",
+            "structural": "query"
+        },
+        "fullAnswer": "The girl is wearing a shirt."
+    },
+    "00569849": {
+        "semantic": [
+            {
+                "operation": "select",
+                "dependencies": [],
+                "argument": "dog (523479)"
+            },
+            {
+                "operation": "relate",
+                "dependencies": [
+                    0
+                ],
+                "argument": "vehicle,in front of,o (523483)"
+            },
+            {
+                "operation": "query",
+                "dependencies": [
+                    1
+                ],
+                "argument": "name"
+            }
+        ],
+        "entailed": [
+            "00569848"
+        ],
+        "equivalent": [
+            "00569849"
+        ],
+        "question": "Which kind of vehicle is the dog in front of?",
+        "imageId": "2384917",
+        "isBalanced": true,
+        "groups": {
+            "global": "vehicle",
+            "local": "15-dog_in front of,o"
+        },
+        "answer": "van",
+        "semanticStr": "select: dog (523479)->relate: vehicle,in front of,o (523483) [0]->query: name [1]",
+        "annotations": {
+            "answer": {
+                "0": "523483"
+            },
+            "question": {
+                "3": "523483"
+            },
+            "fullAnswer": {
+                "1": "523479",
+                "7": "523483"
+            }
+        },
+        "types": {
+            "detailed": "categoryRelO",
+            "semantic": "rel",
+            "structural": "query"
+        },
+        "fullAnswer": "The dog is in front of the van."
+    },
+    "17616592": {
+        "semantic": [
+            {
+                "operation": "select",
+                "dependencies": [],
+                "argument": "guy (2546683)"
+            },
+            {
+                "operation": "relate",
+                "dependencies": [
+                    0
+                ],
+                "argument": "device,to the left of,o (2278483)"
+            },
+            {
+                "operation": "query",
+                "dependencies": [
+                    1
+                ],
+                "argument": "color"
+            }
+        ],
+        "entailed": [
+            "17616595",
+            "17616594",
+            "17616596",
+            "17616591",
+            "17616590",
+            "17616593",
+            "17616588",
+            "17616589",
+            "17616605",
+            "17616604",
+            "17616603",
+            "17616602"
+        ],
+        "equivalent": [
+            "17616592"
+        ],
+        "question": "What color is the device the guy is to the left of?",
+        "imageId": "2352577",
+        "isBalanced": true,
+        "groups": {
+            "global": "color",
+            "local": "10q-laptop_color"
+        },
+        "answer": "silver",
+        "semanticStr": "select: guy (2546683)->relate: device,to the left of,o (2278483) [0]->query: color [1]",
+        "annotations": {
+            "answer": {},
+            "question": {
+                "4": "2278483",
+                "6": "2546683"
+            },
+            "fullAnswer": {
+                "1": "2278483"
+            }
+        },
+        "types": {
+            "detailed": "directWhich",
+            "semantic": "attr",
+            "structural": "query"
+        },
+        "fullAnswer": "The laptop is silver."
+    }
+}
